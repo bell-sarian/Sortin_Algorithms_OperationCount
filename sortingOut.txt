@@ -1,0 +1,104 @@
+Numbers : 234, 765, 650, 123, 498, 789, 126, 790, 231, 999, 
+
+SIZE	SORT		ASSIGNMENTS		COMPARISONS		TOTAL
+10		Selection	168				126				294
+10		Insertion	28				37				65
+10		Bubble		11				21				32
+10		Quick		117				145				262
+10		Merge		174				210			384
+
+Best sort is Bubble Sort
+
+//////////////////////////////////////////////////////////////////////
+
+Numbers : 121, 12, 43, 206, 87, 2, 3, 57, 67, 90, 20, 45, 56, 78, 9, 76, 54, 31, 17, 100, 
+
+SIZE	SORT		ASSIGNMENTS		COMPARISONS		TOTAL
+20		Selection	763				518				1281
+20		Insertion	58				77				135
+20		Bubble		21				41				62
+20		Quick		342				400				742
+20		Merge		416				508			924
+
+Best sort is Bubble Sort
+
+//////////////////////////////////////////////////////////////////////
+
+Numbers : 12, 345, 6789, 4567, 3232, 4354, 4365, 7898, 5456, 652, 435, 987, 32, 543, 765, 78, 14, 
+
+SIZE	SORT		ASSIGNMENTS		COMPARISONS		TOTAL
+17		Selection	637				392				1029
+17		Insertion	49				65				114
+17		Bubble		18				35				53
+17		Quick		264				313				577
+17		Merge		338				417			755
+
+Best sort is Bubble Sort
+
+//////////////////////////////////////////////////////////////////////
+
+Numbers : 1007, 1008, 1009, 1010, 1020, 1030, 1040, 1050, 1060, 1070, 1080, 1090, 1100, 1120, 
+
+SIZE	SORT		ASSIGNMENTS		COMPARISONS		TOTAL
+14		Selection	145				209				354
+14		Insertion	40				53				93
+14		Bubble		15				29				44
+14		Quick		195				235				430
+14		Merge		266				326			592
+
+Best sort is Bubble Sort
+
+//////////////////////////////////////////////////////////////////////
+
+Numbers : 9876, 9854, 9812, 9653, 9431, 9012, 8976, 8641, 7643, 6432, 
+
+SIZE	SORT		ASSIGNMENTS		COMPARISONS		TOTAL
+10		Selection	308				154				462
+10		Insertion	28				37				65
+10		Bubble		11				21				32
+10		Quick		117				145				262
+10		Merge		174				210			384
+
+Best sort is Bubble Sort
+
+//////////////////////////////////////////////////////////////////////
+
+Numbers : 3456, 653, 121, 236, 985, 875, 8162, 3476, 8743, 7682, 5376, 8763, 4376, 
+
+SIZE	SORT		ASSIGNMENTS		COMPARISONS		TOTAL
+13		Selection	223				200				423
+13		Insertion	37				49				86
+13		Bubble		14				27				41
+13		Quick		174				211				385
+13		Merge		243				295			538
+
+Best sort is Bubble Sort
+
+//////////////////////////////////////////////////////////////////////
+
+Numbers : 1234, 1021, 2987, 4129, 3476, 1290, 7612, 3298, 2398, 
+
+SIZE	SORT		ASSIGNMENTS		COMPARISONS		TOTAL
+9		Selection	135				102				237
+9		Insertion	25				33				58
+9		Bubble		10				19				29
+9		Quick		100				125				225
+9		Merge		151				183			334
+
+Best sort is Bubble Sort
+
+//////////////////////////////////////////////////////////////////////
+
+Numbers : 19, 0, 42, 35, 48, 39, 28, 37, 73, 7, 71, 83, 1, 23, 4, 75, 5, 53, 3, 6, 45, 8, 2, 9, 10, 11, 
+
+SIZE	SORT		ASSIGNMENTS		COMPARISONS		TOTAL
+26		Selection	1337				883				2220
+26		Insertion	76				101				177
+26		Bubble		27				53				80
+26		Quick		525				601				1126
+26		Merge		572				702			1274
+
+Best sort is Bubble Sort
+
+//////////////////////////////////////////////////////////////////////
+
